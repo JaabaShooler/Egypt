@@ -1,0 +1,13 @@
+<svg id="Group_44" data-name="Group 44" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="122.259" height="62.527" viewBox="0 0 122.259 62.527">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d6d6d6"/>
+      <stop offset="1" stop-color="#656565"/>
+    </linearGradient>
+  </defs>
+  <path id="Path_13" data-name="Path 13" d="M2884.371-940.636h24.494l15.523-15.523,15.523,15.523h66.719l-50.393-50.392-24.872,24.873,18.781,18.781h-3.01l-27.882-27.882Z" transform="translate(-2884.371 991.028)" fill="url(#linear-gradient)"/>
+  <line id="Line_21" data-name="Line 21" x2="21.115" transform="translate(30.153 54.03)" fill="none" stroke="#636363" stroke-width="4"/>
+  <line id="Line_24" data-name="Line 24" x2="7.309" transform="translate(20.408 54.03)" fill="none" stroke="#636363" stroke-width="4"/>
+  <line id="Line_22" data-name="Line 22" x2="21.564" transform="translate(53.157 60.527)" fill="none" stroke="#636363" stroke-width="4"/>
+  <line id="Line_23" data-name="Line 23" x2="12.994" transform="translate(68.324 54.03)" fill="none" stroke="#636363" stroke-width="4"/>
+</svg>
